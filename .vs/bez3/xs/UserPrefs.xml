@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{8933C4DE-3498-F512-A41F-D8BF7AB8FF68}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MovePointMarker.cs">
+    <Files>
+      <File FileName="Assets/Bezier_Spline.cs" Line="17" Column="11" />
+      <File FileName="../Documents/:Users:shahdsherif:bez3:Assets:Bezier.cs" Line="16" Column="4" />
+      <File FileName="Assets/Bezier.cs" Line="29" Column="9" />
+      <File FileName="Assets/MoveCtrlPt.cs" Line="31" Column="1" />
+      <File FileName="Assets/MovePointMarker.cs" Line="7" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
