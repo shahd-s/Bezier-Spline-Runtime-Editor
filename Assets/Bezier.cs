@@ -28,7 +28,7 @@ public class Bezier : MonoBehaviour
     {
 
 
-       lr.positionCount = -2;
+       lr.positionCount = 0;
         lr.SetWidth((float)0.1, (float)0.1);
 
 
