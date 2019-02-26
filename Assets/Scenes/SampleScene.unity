@@ -145,7 +145,10 @@ MonoBehaviour:
   lr: {fileID: 86127983}
   Linepoint: {fileID: 3106714478410793623, guid: c128e02cd46ad423a898969823fd553a,
     type: 3}
+  ControlPoint: {fileID: 5566023829335022077, guid: 74784f579869349a990f86bb188f1c21,
+    type: 3}
   PointList: []
+  ControlPointList: []
   sizee: {x: 0, y: 0, z: 0}
   newPos: {x: 0, y: 0, z: 0}
   oldPos: {x: 0, y: 0, z: 0}
@@ -159,7 +162,7 @@ LineRenderer:
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
+  m_DynamicOccludee: 0
   m_MotionVectors: 0
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
