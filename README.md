@@ -1,6 +1,6 @@
 # Bezier-Spline-Runtime-Editor 
 
-NOTE: This is a very early demo, I have since integrated the tool into Tetra including meshing, shaders, and fully functional projection mapping. 
+NOTE: This is a very early demo, I have since completed and integrated the tool into Tetra to include meshing, shaders, and fully functional projection mapping. 
 
 
 ![](pm.gif)
